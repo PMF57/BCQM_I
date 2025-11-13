@@ -1,0 +1,12 @@
+class _Args: pass
+args = _Args()
+args.wavelength     = 633e-9
+args.slit_sep       = 120e-6
+args.slit_width     = 20e-6
+args.slit_shape     = "rect"     # or "gauss"
+args.beam_waist     = 0.6e-3
+args.x_span         = 2.0e-3
+args.nx             = 2048
+args.z_screen       = 1.4
+args.nz             = 220
+args.peak_prominence= 0.02

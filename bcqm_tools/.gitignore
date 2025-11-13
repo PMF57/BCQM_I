@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+bcqm_tools/examples/*.png
+bcqm_tools/examples/*.csv
+bcqm_tools/examples/*.json
+
+
+.DS_Store

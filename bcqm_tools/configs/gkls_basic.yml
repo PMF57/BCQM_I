@@ -1,0 +1,6 @@
+task: gkls
+gamma_phi:   0.1
+gamma_relax: 0.0
+tmax: 5.0e-5
+dt:   5.0e-7
+out:  bcqm_tools/examples/gkls

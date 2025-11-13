@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these tools, please cite this software."
+title: "bcqm_tools — reproducible tools for the BCQM companion"
+authors:
+  - family-names: "Ferguson"
+    given-names: "Peter M."
+  - name: "ChatGPT (assistant)"
+version: "0.2.0"
+license: "MIT"
+repository-code: "https://github.com/PMF57/BCQM-Programs"

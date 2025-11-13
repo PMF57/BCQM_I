@@ -1,0 +1,6 @@
+task: ramsey
+gamma: 0.1
+fstar: 0.9
+tmax: 5.0e-5
+dt:   2.0e-7
+out:  bcqm_tools/examples/ramsey

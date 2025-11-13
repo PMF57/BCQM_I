@@ -1,0 +1,5 @@
+task: galton
+rows: 10
+n: 1000
+seed: 42
+out:  bcqm_tools/examples/galton
